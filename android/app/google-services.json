@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164914698223",
+    "project_id": "ecommapp-e7dec",
+    "storage_bucket": "ecommapp-e7dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164914698223:android:6770959bca8733d38e481a",
+        "android_client_info": {
+          "package_name": "com.fullstackecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164914698223-obmoqkdbb5mm89tvhjjkpegre698qcir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullstackecommerceapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "164914698223-8duvhe0u5e2uv0j2ojrtkice2bl2ugsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58AtXD_lrB_SfrASNrYban2jpY0wXDHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164914698223-8duvhe0u5e2uv0j2ojrtkice2bl2ugsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
